@@ -1,2 +1,0 @@
-# jieraschool
-# vprofile-project
